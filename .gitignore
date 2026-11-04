@@ -1,0 +1,20 @@
+# Virtuelle Umgebung
+.venv/
+venv/
+env/
+
+# Python-Cache
+__pycache__/
+*.py[cod]
+
+# Streamlit-Zugangsdaten (niemals hochladen)
+.streamlit/secrets.toml
+
+# Lokale Umgebungsvariablen
+.env
+
+# Editor- und Systemdateien
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
